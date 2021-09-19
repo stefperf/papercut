@@ -1,0 +1,4 @@
+/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=54521:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/Stefano/IdeaProjects/papercut/out/production/papercut:/usr/local/Cellar/scala/2.13.6/libexec/lib/scala-library.jar:/usr/local/Cellar/scala/2.13.6/libexec/lib/scala-reflect.jar Application
+For a paper sheet of size 8.5 x 11, the expected nr. of cuts is 14.291.
+
+Process finished with exit code 0
